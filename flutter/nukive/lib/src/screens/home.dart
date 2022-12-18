@@ -54,6 +54,7 @@ class _HomeScreenState extends State<HomeScreen> {
       ),
       const Text(
         'by Arindam Karmakar',
+        textAlign: TextAlign.center,
         textScaleFactor: 4.5,
         style: TextStyle(
           color: Colors.white,
